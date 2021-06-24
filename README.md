@@ -1,9 +1,10 @@
 # News Headline Selection
 
 **Transformers for Headline Selection for Russian News Clusters**<br>
-Pavel Voropaev, Olga Sopilnyak
+Pavel Voropaev, Olga Sopilnyak<br>
+[https://arxiv.org/abs/2106.10487](https://arxiv.org/abs/2106.10487)
 
-**Abstract:** In this paper, we explore various multilingual and Russian pre-trained transformer-based models for the Dialogue Evaluation 2021 shared task on headline selection. Our experiments show that the combined approach issuperior to individual multilingual and monolingual models. We present an analysis of a number of ways to obtainsentence embeddings and learn a ranking model on top of them. We achieve the result of 87.28% and 86.60% accuracy for the public and private test sets respectively.
+**Abstract:** In this paper, we explore various multilingual and Russian pre-trained transformer-based models for the Dialogue Evaluation 2021 shared task on headline selection. Our experiments show that the combined approach is superior to individual multilingual and monolingual models. We present an analysis of a number of ways to obtainsentence embeddings and learn a ranking model on top of them. We achieve the result of 87.28% and 86.60% accuracy for the public and private test sets respectively.
 
 ## Download training and test sets
 
